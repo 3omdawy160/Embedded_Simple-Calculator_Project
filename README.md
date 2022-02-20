@@ -1,3 +1,5 @@
+This is an Embedded field related project, which is done by the Layered model and by drivers
+
 This is a Simple Calculator made by a KeyPad, LCD and controlled by an AVR ATMEGA16 microcontroller,
 
 It's made to perform one mathematical operation at a time (ex: 36*753),
